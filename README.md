@@ -29,9 +29,11 @@
 
 ---
 
-## 🧾 Estatísticas do GitHub
 
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=alairton&show_icons=true&theme=tokyonight)
+
+## 🧾 Estatísticas do GitHub de Alairton Costa
+
+![Alairton Costa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alairton&show_icons=true&theme=tokyonight&cache_seconds=180)
 ![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=alairton&layout=compact&theme=tokyonight)
 
 ---
